@@ -26,12 +26,14 @@ export default {
   ** Global CSS
   */
   css: [
-    'assets/css/tailwind.css'
+    'assets/css/tailwind.css',
+    '@fortawesome/fontawesome-svg-core/styles.css'
   ],
   /*
   ** Plugins to load before mounting the App
   */
   plugins: [
+    '~/plugins/fontawesome.js'
   ],
   /*
   ** Nuxt.js dev-modules
