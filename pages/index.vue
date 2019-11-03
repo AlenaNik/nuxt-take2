@@ -8,7 +8,7 @@
             <h1 class="font-bold text-xl mb-6 text-center hover:text-indigo-400 transition-colors transition-500 transition-linear">Front-End Developer / UI Designer </h1>
                     <p class="text-gray-700 text-center text-sm mb-6 hover:text-indigo-400 transition-colors transition-500 transition-linear">
                       Hey! My name is Alena Nikolaeva and currently I'm working as UX/UI designer in Madrid at
-                      <a href="http://www.nextlimit.com/" class="font-semibold">Next Limit.</a> I enjoy coding as much as designing.
+                      <a href="http://www.nextlimit.com/" class="font-semibold">Next Limit.</a> I enjoy coding as much as designing. This very website is build in Nuxt.js, which I lately curious about.
                     </p>
             <p class="text-gray-700 text-center text-sm hover:text-indigo-400 transition-colors transition-500 transition-linear">
               If you'd like to be in touch, you cant find me on:
