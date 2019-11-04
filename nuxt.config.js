@@ -59,8 +59,12 @@ export default {
         }
       ]
     }
-    ]
+    ],
+    'nuxt-purgecss',
   ],
+  purgeCSS: {
+    whitelist: () => ['.page-enter-active', '.page-leave-active']
+  },
   /*
   ** Build configuration
   */
