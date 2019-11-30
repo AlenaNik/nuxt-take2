@@ -11,7 +11,7 @@
         <li
           class="mb-10 mx-6"
         ><nuxt-link
-          to="/work">Work</nuxt-link></li>
+          to="/about">About</nuxt-link></li>
         <li
           class="mb-10 mx-6"
         ><nuxt-link
