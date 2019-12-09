@@ -21,7 +21,6 @@
                 <a href="https://twitter.com/alenanik11" target="_blank">   <span class="inline-block hover:text-indigo-400 hover:bg-indigo-100  rounded-full px-3 py-1 text-sm text-gray-700 mr-2 transition-colors transition-300 transition-linear"> <font-awesome-icon :icon="['fab', 'twitter']"/></span></a>
               </div>
             </div>
-            <img :src="require('../assets/Paper Plane.png')" />
           </div>
         </div>
       </div>
