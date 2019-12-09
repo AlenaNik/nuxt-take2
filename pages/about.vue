@@ -64,6 +64,7 @@
               🔨 with: html + css + bootstrap. My first blog ever build at Wild Code School <a class="text-indigo-600" href="https://github.com/AlenaNik/New_Project_One">link to repo</a></li>
 
           </ul>
+            <img :src="require('../assets/Confetti.svg')" />
         </div>
         </div>
         <div class="flex flex-col w-full md:w-1/2 mx-4">
