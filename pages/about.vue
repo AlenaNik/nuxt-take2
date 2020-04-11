@@ -1,5 +1,81 @@
 <template>
   <div class="h-screen w-screen">
+    <div class="flex flex-wrap">
+
+
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+            <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+              <img src="https://i.ibb.co/BTL44TP/Screenshot-2020-04-11-at-19-15-10.png" class="h-46 rounded-lg w-full object-cover">
+              <div class="py-2 px-2">
+                <div class=" font-bold font-title text-center">Designed and Coded</div>
+
+                <div class="text-sm font-light text-center my-2">React.js and Context API</div>
+              </div>
+            </div>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <img src="https://i.ibb.co/9cCzbmk/Screenshot-2019-07-25-at-17-31-31.png" class="h-46 rounded-lg w-full object-cover">
+            <div class="py-2 px-2">
+              <div class=" font-bold font-title text-center">My school project</div>
+              <div class="text-sm font-light text-center my-2">React.js, Mongo DB</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <img src="https://i.ibb.co/FVjS2QY/d8e7fc51e6e61e99aeba9ffc6a45ad5a.gif" class="h-46 rounded-lg w-full object-cover">
+            <div class="py-2 px-2">
+              <div class=" font-bold font-title text-center">Coded a clone of Disney Plus </div>
+              <div class="text-sm font-light text-center my-2"> Vue.js and Tailwind CSS </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <img src="https://i.ibb.co/26b220H/Mobile-App.png" class="h-46 rounded-lg w-full object-cover">
+            <div class="py-2 px-2">
+              <div class=" font-bold font-title text-center">Designed an app</div>
+              <div class="text-sm font-light text-center my-2">InVision and Adobe XD</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <img src="https://i.ibb.co/tP1FxWY/Screenshot-2020-04-09-at-16-45-31.png" class="h-40 rounded-lg w-full object-cover">
+            <div class="py-2 px-2">
+              <div class=" font-bold font-title text-center">Designed and Coded</div>
+              <div class="text-sm font-light text-center my-2">Vue.js, Node.js, Express </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <div class="right-0 mt-4 rounded-l-full absolute text-center font-bold text-xs text-white px-2 py-1 bg-orange-500">
+             Me at Firebase Summit 2019
+            </div>
+            <img src="https://i.ibb.co/7kQt0B3/DSC-8045-1.jpg" class="h-46 rounded-lg w-full object-cover">
+            <div class="py-2 px-2">
+              <div class=" font-bold font-title text-center">Tech events?</div>
+              <div class="text-sm font-light text-center my-2">Let's talk about it on <a href="https://twitter.com/alenanik11">Twitter</a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
     <div class="flex flex-col items-center flex-1 h-full justify-center px-4">
       <div class="flex w-full sm:w-3/4 bg-white sm:mx-4" style="height: 500px">
         <div class="hidden md:block md:w-1/2 lg:w-1/2 rounded-r-lg">
@@ -69,14 +145,12 @@
               <path fill-rule="evenodd" clip-rule="evenodd" d="M23 6.4H1V4.6C1 3.17 2.17 2 3.6 2H20.4C21.83 2 23 3.17 23 4.6V6.4ZM2.2 5.2H21.8V4.6C21.8 3.83 21.17 3.2 20.4 3.2H3.6C2.83 3.2 2.2 3.83 2.2 4.6V5.2Z" fill="undefined" fill-opacity="undefined"/>
             </svg>
               🔨 with: html + css + bootstrap. My first blog ever build at Wild Code School <a class="text-indigo-600" href="https://github.com/AlenaNik/New_Project_One">link to repo</a></li>
-            </li>
           </ul>
           </div>
         </div>
         <div class="flex flex-col w-full md:w-1/2 mx-4">
           <div class="flex flex-col flex-1 justify-center ml-20 md:ml-2 lg:ml-2">
             <h1 class="font-bold text-xl mb-6 text-center hover:text-indigo-400 transition-colors transition-500 transition-linear">About</h1>
-            <img :src="require('../assets/Character 37.svg')" />
             <ul class="text-gray-800 text-sm mb-6 ml-4">
               <li class="text-justify mb-4"><span class="font-semibold text-indigo-600 hover:text-indigo-800 transition-colors transition-500 transition-ease-in-out">UX/UI Desing Skills: </span>User experience research, problem statement, user interviews, pain points, customer journey mapping, storyboards, prototyping and <span class="font-semibold">design solution</span></li>
               <li class="text-justify mb-4"><span class="font-semibold text-indigo-600 hover:text-indigo-800 transition-colors transition-500-scroll transition-ease-in-out">Front-End Development: </span>Primary domain focused on the design/UI component layer of an application. Technology: React, Vue, Nuxt, Sass, PostCSS, Styled Components, UI Libraries (Material UI, Materialize, Reactstrap, TailwindCSS, Tachyons, Ant Design), Netlify, Node, Express, Firebase</li>
