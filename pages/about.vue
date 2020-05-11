@@ -51,9 +51,9 @@
       <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
         <div class=" ">
           <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
-            <img src="https://i.ibb.co/tP1FxWY/Screenshot-2020-04-09-at-16-45-31.png" class="h-46 rounded-lg w-full object-cover">
+            <img src="https://i.ibb.co/Bs2Jbq7/Screenshot-2020-05-11-at-13-57-50.png" class="h-46 rounded-lg w-full object-cover">
             <div class="py-2 px-2">
-              <div class=" font-bold font-title text-center">Designed and Coded</div>
+              <div class=" font-bold font-title text-center">CMS Coding Project</div>
               <div class="text-sm font-light text-center my-2">Vue.js, Node.js, Express </div>
             </div>
           </div>
