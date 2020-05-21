@@ -62,6 +62,17 @@
       <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
         <div class=" ">
           <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <img src="https://i.ibb.co/w6HY3fD/Screenshot-2020-05-21-at-14-05-14.png" class="h-46 rounded-lg w-full object-cover">
+            <div class="py-2 px-2">
+              <div class=" font-bold font-title text-center">Booking for conference website</div>
+              <div class="text-sm font-light text-center my-2">Vue.js, JSON-Server </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
             <div class="right-0 mt-4 rounded-l-full absolute text-center font-bold text-xs text-white px-2 py-1 bg-orange-500">
              Me at Firebase Summit 2019
             </div>
