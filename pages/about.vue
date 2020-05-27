@@ -1,92 +1,5 @@
 <template>
   <div class="h-screen w-screen">
-    <div class="flex flex-wrap">
-
-
-      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
-        <div class=" ">
-            <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
-              <img src="https://i.ibb.co/BTL44TP/Screenshot-2020-04-11-at-19-15-10.png" class="h-46 rounded-lg w-full object-cover">
-              <div class="py-2 px-2">
-                <div class=" font-bold font-title text-center">Designed and Coded</div>
-
-                <div class="text-sm font-light text-center my-2">React.js and Context API</div>
-              </div>
-            </div>
-        </div>
-      </div>
-      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
-        <div class=" ">
-          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
-            <img src="https://i.ibb.co/9cCzbmk/Screenshot-2019-07-25-at-17-31-31.png" class="h-46 rounded-lg w-full object-cover">
-            <div class="py-2 px-2">
-              <div class=" font-bold font-title text-center">My school project</div>
-              <div class="text-sm font-light text-center my-2">React.js, Mongo DB</div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
-        <div class=" ">
-          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
-            <img src="https://i.ibb.co/FVjS2QY/d8e7fc51e6e61e99aeba9ffc6a45ad5a.gif" class="h-46 rounded-lg w-full object-cover">
-            <div class="py-2 px-2">
-              <div class=" font-bold font-title text-center">Coded a clone of Disney Plus </div>
-              <div class="text-sm font-light text-center my-2"> Vue.js and Tailwind CSS </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
-        <div class=" ">
-          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
-            <img src="https://i.ibb.co/26b220H/Mobile-App.png" class="h-46 rounded-lg w-full object-cover">
-            <div class="py-2 px-2">
-              <div class=" font-bold font-title text-center">Designed an app</div>
-              <div class="text-sm font-light text-center my-2">InVision and Adobe XD</div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
-        <div class=" ">
-          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
-            <img src="https://i.ibb.co/ZYrtf9n/Screenshot-2020-05-11-at-14-05-55.png" class="h-46 rounded-lg w-full object-cover">
-            <div class="py-2 px-2">
-              <div class=" font-bold font-title text-center">CMS Coding Project</div>
-              <div class="text-sm font-light text-center my-2">Vue.js, Node.js, Express </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
-        <div class=" ">
-          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
-            <img src="https://i.ibb.co/w6HY3fD/Screenshot-2020-05-21-at-14-05-14.png" class="h-46 rounded-lg w-full object-cover">
-            <div class="py-2 px-2">
-              <div class=" font-bold font-title text-center">Booking for conference website</div>
-              <div class="text-sm font-light text-center my-2">Vue.js, JSON-Server </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
-        <div class=" ">
-          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
-            <div class="right-0 mt-4 rounded-l-full absolute text-center font-bold text-xs text-white px-2 py-1 bg-orange-500">
-             Me at Firebase Summit 2019
-            </div>
-            <img src="https://i.ibb.co/7kQt0B3/DSC-8045-1.jpg" class="h-46 rounded-lg w-full object-cover">
-            <div class="py-2 px-2">
-              <div class=" font-bold font-title text-center">Tech events?</div>
-              <div class="text-sm font-light text-center my-2">Let's talk about it on <a href="https://twitter.com/alenanik11">Twitter</a></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-
     <div class="flex flex-col items-center flex-1 h-full justify-center px-4">
       <div class="flex w-full sm:w-3/4 bg-white sm:mx-4" style="height: 500px">
         <div class="hidden md:block md:w-1/2 lg:w-1/2 rounded-r-lg">
@@ -177,6 +90,117 @@
     </div>
   </div>
   </div>
+
+
+    <div class="flex flex-wrap">
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <a href="https://5e9599efbe0eb9588d6f9e84--goofy-leakey-97cf3f.netlify.app/">
+            <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+              <img src="https://i.ibb.co/BTL44TP/Screenshot-2020-04-11-at-19-15-10.png" class="h-46 rounded-lg w-full object-cover">
+              <div class="py-2 px-2">
+                <div class=" font-bold font-title text-center">Designed and Coded</div>
+                <div class="text-sm font-light text-center my-2">React.js and Context API</div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <img src="https://i.ibb.co/9cCzbmk/Screenshot-2019-07-25-at-17-31-31.png" class="h-46 rounded-lg w-full object-cover">
+            <div class="py-2 px-2">
+              <div class=" font-bold font-title text-center">My school project</div>
+              <div class="text-sm font-light text-center my-2">React.js, Mongo DB</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <a href="https://disneyplus-copy-tailwind.netlify.app/about">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <img src="https://i.ibb.co/FVjS2QY/d8e7fc51e6e61e99aeba9ffc6a45ad5a.gif" class="h-46 rounded-lg w-full object-cover">
+            <div class="py-2 px-2">
+              <div class=" font-bold font-title text-center">Coded a clone of Disney Plus </div>
+              <div class="text-sm font-light text-center my-2"> Vue.js and Tailwind CSS </div>
+            </div>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <a href="https://dribbble.com/shots/9300433-Desktop-CookerMix-App">
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <img src="https://i.ibb.co/26b220H/Mobile-App.png" class="h-46 rounded-lg w-full object-cover">
+            <div class="py-2 px-2">
+              <div class=" font-bold font-title text-center">Designed an app</div>
+              <div class="text-sm font-light text-center my-2">InVision and Adobe XD</div>
+            </div>
+          </div>
+        </div>
+        </a>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <img src="https://i.ibb.co/ZYrtf9n/Screenshot-2020-05-11-at-14-05-55.png" class="h-46 rounded-lg w-full object-cover">
+            <div class="py-2 px-2">
+              <div class=" font-bold font-title text-center">CMS Coding Project</div>
+              <div class="text-sm font-light text-center my-2">Vue.js, Node.js, Express </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <img src="https://i.ibb.co/w6HY3fD/Screenshot-2020-05-21-at-14-05-14.png" class="h-46 rounded-lg w-full object-cover">
+            <div class="py-2 px-2">
+              <div class=" font-bold font-title text-center">Booking for conference website</div>
+              <div class="text-sm font-light text-center my-2">Vue.js, JSON-Server </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <div class="right-0 mt-4 rounded-l-full absolute text-center font-bold text-xs text-white px-2 py-1 bg-orange-500">
+              Me at Firebase Summit 2019
+            </div>
+            <img src="https://i.ibb.co/7kQt0B3/DSC-8045-1.jpg" class="h-46 rounded-lg w-full object-cover">
+            <div class="py-2 px-2">
+              <div class=" font-bold font-title text-center">Tech events?</div>
+              <div class="text-sm font-light text-center my-2">Let's talk about it on <a href="https://twitter.com/alenanik11">Twitter</a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <div class="right-0 mt-4 rounded-l-full absolute text-center font-bold text-xs text-white px-2 py-1 bg-orange-500">
+              Commit Conf 2020
+            </div>
+            <img src="https://i.ibb.co/MB27K2S/0.jpg" class="h-46 rounded-lg w-full object-cover">
+          </div>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+            <div class="right-0 mt-4 rounded-l-full absolute text-center font-bold text-xs text-white px-2 py-1 bg-orange-500">
+              GCP workshop at Google for Startups
+            </div>
+            <img src="https://i.ibb.co/vjftZH8/D96-MFYWW4-AAw-EBl.jpg" class="h-46 rounded-lg w-full object-cover">
+          </div>
+        </div>
+      </div>
+    </div>
+
   </div>
 </template>
 
