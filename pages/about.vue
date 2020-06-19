@@ -40,6 +40,19 @@
         </div>
       </div>
       <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <div class=" ">
+          <a href="https://github.com/AlenaNik/taskmanager">
+            <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+              <img src="https://i.ibb.co/WyPkwQ5/Screenshot-2020-06-18-at-22-38-43.png" class="h-46 rounded-lg w-full object-cover">
+              <div class="py-2 px-2">
+                <div class=" font-bold font-title text-center">Coded a clone of Trello </div>
+                <div class="text-sm font-light text-center my-2"> Vue.js, Vuex, localStorage and Tailwind CSS. Drag and drop functionality. </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
         <a href="https://dribbble.com/shots/9300433-Desktop-CookerMix-App">
         <div class=" ">
           <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
