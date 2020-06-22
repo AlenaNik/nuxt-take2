@@ -70,7 +70,7 @@
           <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
             <img src="https://i.ibb.co/ZYrtf9n/Screenshot-2020-05-11-at-14-05-55.png" class="h-46 rounded-lg w-full object-cover">
             <div class="py-2 px-2">
-              <div class=" font-bold font-title text-center">CMS Coding Project</div>
+              <div class=" font-bold font-title text-center">Coded a CMS Project</div>
               <div class="text-sm font-light text-center my-2">Vue.js, Node.js, Express </div>
             </div>
           </div>
@@ -81,11 +81,24 @@
           <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
             <img src="https://i.ibb.co/w6HY3fD/Screenshot-2020-05-21-at-14-05-14.png" class="h-46 rounded-lg w-full object-cover">
             <div class="py-2 px-2">
-              <div class=" font-bold font-title text-center">Booking for conference website</div>
+              <div class=" font-bold font-title text-center">Coded a booking for conference website</div>
               <div class="text-sm font-light text-center my-2">Vue.js, JSON-Server </div>
             </div>
           </div>
         </div>
+      </div>
+      <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
+        <a href="http://www.cgchannel.com/2019/04/next-limit-launches-roombox/#:~:text=Next%20Limit%20has%20launched%20RoomBox,render%20the%20finished%20scenes%20online.">
+          <div class=" ">
+            <div class="bg-white relative shadow p-2 rounded-lg text-gray-800 hover:shadow-lg">
+              <img src="https://i.ibb.co/PWgyxbZ/Screenshot-2020-06-22-at-14-32-25.png" class="h-46 rounded-lg w-full object-cover">
+              <div class="py-2 px-2">
+                <div class=" font-bold font-title text-center">Designed a web app for Unity</div>
+                <div class="text-sm font-light text-center my-2">Import 2D floorplans and convert them into 3D environments for rendering (this project includes light/dark modes, website and desktop app, live prototypes)</div>
+              </div>
+            </div>
+          </div>
+        </a>
       </div>
       <div class="md:w-1/2 lg:w-1/3 py-4 px-4" >
         <div class=" ">
