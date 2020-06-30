@@ -1,15 +1,12 @@
 <template>
   <div>
-    <Nav/>
     <nuxt />
   </div>
 </template>
 
 <script>
-  import Nav from './partials/nav';
   export default {
     components: {
-      Nav
     }
   }
 </script>
@@ -19,7 +16,7 @@
     height: 100%;
     background-color: white;
     margin: 0;
-    font-family: "Helvetica Neue";
+    font-family: 'Red Hat Display', sans-serif;
   }
 
   *,
